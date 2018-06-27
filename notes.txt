@@ -1,0 +1,6 @@
+USE VERSION
+npm install expect@1.20.2 --save-dev
+THEY CHANGED OWNERSHIP TO JEST AND JEST CHANGED THE API
+:/
+
+Spys are cool.
